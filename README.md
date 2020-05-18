@@ -1,2 +1,12 @@
 # My_little_pwny
-This is a repo for the Pwny project which checks whether a particular password has been pawned 
+    
+                      _ _ _   _   _                                     
+  /\/\  _   _    | (_) |_| |_| | ___      _ ____      ___ __  _   _ 
+ /    \| | | |   | | | __| __| |/ _ \    | '_ \ \ /\ / / '_ \| | | |
+/ /\/\ \ |_| |   | | | |_| |_| |  __/    | |_) \ V  V /| | | | |_| |
+\/    \/\__, |___|_|_|\__|\__|_|\___|____| .__/ \_/\_/ |_| |_|\__, |
+        |___/_____|                |_____|_|                  |___/ 
+
+
+    
+## Description
